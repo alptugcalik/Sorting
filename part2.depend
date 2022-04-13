@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609661740 source:d:\lectures\ee441\pa3\part2\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+
